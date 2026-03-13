@@ -1,0 +1,14 @@
+Ice Breaker Github Repository:
+https://github.com/emarco177/IceBreaker
+
+Documentation Helper Github Repository:
+https://github.com/emarco177/documentation-helper
+
+LangChain Official Documentation:
+https://python.langchain.com/docs/introduction/
+
+Prompt Engineering Theory Section
+https://www.udemy.com/course/langchain/learn/lecture/37735894
+
+Course Repository:
+https://github.com/emarco177/langchain-course
